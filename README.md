@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ian Santiago
 
 <div>
-  <a href="https://github.com/arthurvalenteaka">
+  <a href="https://github.com/iansantf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurValenteaka&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
  
 </div>
